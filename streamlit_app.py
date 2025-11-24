@@ -74,7 +74,7 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
     #   "images": ["https://.../jjampong1.jpg", "https://.../jjampong2.jpg"],
     #   "videos": ["https://youtu.be/XXXXXXXXXXX"]
     # },
-    label[0] : {"text" : ["중국식 냉면은 신기해"], "image" : ["https://mblogthumb-phinf.pstatic.net/MjAyNDA3MTNfMTM5/MDAxNzIwODcyMTg5Mzk2.R85dx_qTfv13nrQPR3FvgfLNWNfdSDWmmlH2PWvFhmUg.Aoqc3iu52EbZIjtfDUyw2OKOzkNcMEi2D3bdvu2KkPkg.JPEG/SE-231ebe51-1c30-11ef-8608-b335d7d8b709.jpg?type=w800"]},
+    label[0] : {"text" : ["중국식 냉면은 신기해"], "image" : ["https://i.namu.wiki/i/SirkrXrlSE4piSsjJyiugvhbNr_WJkJEGbD3Kycw8LtISueKXehbGAYF5vzC2EUX19rWaSU3OLWpac8q5shTDQ.webp"]},
     label[1] : {"text" : ["짜장면은 회영루"], "image" : ["https://d2m29rwiahucy3.cloudfront.net/images/store/S201005_1603345255042/1603345695734_6.jpg"]},
     label[2] : {"text" : ["짬뽕은 차돌짬뽕"], "image" : ["https://image.idus.com/image/files/dc0b8796deb8483ea6a1e2939ce4cd98.jpg"]},
     label[3] : {"text" : ["탕수육은 바삭바삭하게 찍먹"], "image" : ["https://i.namu.wiki/i/DQPzlCdDvbadZasufp6VhKSLDPHU4YlA1f9GbY2fP9nMvjNOSE32JZxL_ysj2duhcUtcWo-cGQvO_qS3rXctJw.webp"]},
